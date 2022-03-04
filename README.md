@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-## ✨ about me ✨ 
+## ✨A little more about me ✨ 
 
 
-
-### I’m currently learning Python with a focus on CyberSecurity.
-### 🌱 I’m currently learning JavaScript, CSS and HTML.
 ### 😄 Pronouns: She| Her
+### 🌱I’m currently learning Python with a focus on CyberSecurity.
+### 🌱 I’m currently learning JavaScript, CSS and HTML.
+### 🌱 I love Physics and astronomy.
+
 
 
